@@ -13,4 +13,4 @@ Requirements:
 -Python 3 (tested on 3.13)
 -Tkinter (usually included with Python)
 
-Screenshots are attached in the 'screenshots folder' showing the main window with folder selection and the backup success message popup
+Screenshots are attached in the 'screenshots' folder showing the main window with folder selection and the backup success message popup
