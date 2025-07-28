@@ -1,0 +1,47 @@
+[
+    {
+        "timestamp": "2025-07-28 02:24",
+        "source": "C:/Users/Viki/Desktop/kopira",
+        "destination": "Unknown",
+        "success": false,
+        "error": null,
+        "file_count": null,
+        "duration": null
+    },
+    {
+        "timestamp": "2025-07-28 02:24",
+        "source": "C:/Users/Viki/Desktop/kopira",
+        "destination": "Unknown",
+        "success": false,
+        "error": null,
+        "file_count": null,
+        "duration": null
+    },
+    {
+        "timestamp": "2025-07-28 02:29",
+        "source": "C:/Users/Viki/Desktop/kopira",
+        "destination": "C:/Users/Viki/Desktop/destinacija_test\\kopira_2025-07-28_02-29.zip",
+        "success": true,
+        "error": null,
+        "file_count": null,
+        "duration": null
+    },
+    {
+        "timestamp": "2025-07-28 02:30",
+        "source": "C:/Users/Viki/Desktop/kopira",
+        "destination": "C:/Users/Viki/Desktop/destinacija_test\\kopira_2025-07-28_02-30",
+        "success": true,
+        "error": null,
+        "file_count": null,
+        "duration": null
+    },
+    {
+        "timestamp": "2025-07-28 02:38",
+        "source": "C:/Users/Viki/Desktop/destinacija_test",
+        "destination": "C:/Users/Viki/Desktop/kopira\\destinacija_test_2025-07-28_02-38.zip",
+        "success": true,
+        "error": null,
+        "file_count": null,
+        "duration": null
+    }
+]
